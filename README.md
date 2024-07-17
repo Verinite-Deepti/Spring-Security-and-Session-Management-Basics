@@ -2,14 +2,10 @@
 
 # Dependencies
 
-
-  
-  <groupId>org.springframework.boot</groupId>
+ <dependency> <groupId>org.springframework.boot</groupId>
     
-  <artifactId>spring-boot-starter-security</artifactId>
+  <artifactId>spring-boot-starter-security</artifactId></dependency>
   
-
-
 # SpringConstants
 
 public static final String LOGIN_URI = "/login";
