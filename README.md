@@ -3,11 +3,9 @@
 # Dependencies
 
 <dependency>
-  
-    <groupId>org.springframework.boot</groupId>
+  <groupId>org.springframework.boot</groupId>
     
-    <artifactId>spring-boot-starter-security</artifactId>
-    
+  <artifactId>spring-boot-starter-security</artifactId>
 </dependency>
 
 # SpringConstants
